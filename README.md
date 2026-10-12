@@ -6,8 +6,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Kash-Nova/Data-Structure-and-Algorithms/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Kash-Nova/Data-Structure-and-Algorithms/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/Kash-Nova/Data-Structure-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Kash-Nova/Data-Structure-and-Algorithms/tree/master/0039-combination-sum) |
+## String
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Kash-Nova/Data-Structure-and-Algorithms/tree/master/0131-palindrome-partitioning) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Kash-Nova/Data-Structure-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
